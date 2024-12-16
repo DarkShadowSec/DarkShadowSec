@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 # General Public License for more details.
 #
-# 2022-10-25 :: updated for new kernel (alex@wright-sec.com)
+# 2022-10-25 :: updated for new kernel (alex@wright-secure.com)
 
 import sys
 import argparse
